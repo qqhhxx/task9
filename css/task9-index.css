@@ -204,7 +204,7 @@ img {
 }
 .box5-1{
 
-    border:1px solid;
+   
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
@@ -281,7 +281,6 @@ img {
 
     width:155px;
     font-size:14px;
-    border:1px solid;
     margin-left:18px;
     margin-right:22px;
 
@@ -290,11 +289,8 @@ img {
 
 
 .arrowhead{
-
-    border:1px solid;
     width: 32px;
     height: 30px;
-
     background-image: url('../images/icon-task8-index.png');
     background-position: -147px -378px;
 }
@@ -664,7 +660,6 @@ img {
     .mid-1 {
         width:155px;
         font-size:14px;
-        border:1px solid;
         margin-left:10px;
         margin-right:10px;
     }
