@@ -1,26 +1,6 @@
-document.writeln("<!doctype html>");
-document.writeln("<html>");
-document.writeln("");
-document.writeln("<head>");
-document.writeln("    <meta charset=\'utf-8\'>");
-document.writeln("    <title>task9</title>");
-document.writeln("    <meta name=\'viewport\'");
-document.writeln("          content=\'width=device-width,initial-scale=1.0,min-scale=1.0,maximum-scale=1.0,user-scalable=no\'/>");
-document.writeln("    <link rel=\'stylesheet\' href=\'https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css\'");
-document.writeln("          integrity=\'sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB\' crossorigin=\'anonymous\'>");
-document.writeln("    <script src=\'https://code.jquery.com/jquery-3.3.1.slim.min.js\'");
-document.writeln("            integrity=\'sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo\'");
-document.writeln("            crossorigin=\'anonymous\'></script>");
-document.writeln("    <script src=\'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js\'");
-document.writeln("            integrity=\'sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49\'");
-document.writeln("            crossorigin=\'anonymous\'></script>");
-document.writeln("    <script src=\'https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js\'");
-document.writeln("            integrity=\'sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T\'");
-document.writeln("            crossorigin=\'anonymous\'></script>");
-document.writeln("    <link rel=\'stylesheet\' href=\'https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css\'>");
-document.writeln("    <link rel=\'stylesheet\' href=\'../css/task9-index.css\'>");
-document.writeln("</head>");
-document.writeln("<body>");
+
+
+document.writeln("<div>");
 document.writeln("<div class=\'container-fluid box1\'>");
 document.writeln("    <div class=\'container box1-1\'>");
 document.writeln("        客服热线：010-594-78634");
@@ -56,7 +36,4 @@ document.writeln("    </div>");
 document.writeln("</nav>");
 document.writeln("");
 document.writeln("");
-document.writeln("</body>");
-document.writeln("");
-document.writeln("");
-document.writeln("</html>");
+document.writeln("</div>");

@@ -1,0 +1,699 @@
+body {
+    background-color: #fafafa;
+}
+
+.container {
+    max-width: 1230px;
+}
+
+.box2-2 {
+    border: 1px solid green;
+    height: auto;
+}
+
+.navbar-toggler {
+    border: 0;
+    color: #f00;
+}
+
+.bg-green {
+    background-color: #26a26f;
+}
+
+#collapsibleNavbar {
+    justify-content: flex-end;
+    margin-right: -22px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 38px 31.5px 34px 31.5px;
+    text-align: center;
+    border-bottom: 4px solid #26a26f;
+
+}
+
+.navbar {
+    padding-bottom: 0;
+
+    padding-top: 0;
+    font-size: 16px
+
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+    border-bottom: 4px solid #fff;
+}
+
+.navbar-toggler:focus, .navbar-toggler:hover {
+    background-color: #fff;
+}
+
+.navbar-toggler {
+    border: 0;
+    color: #fff;
+}
+
+.wwwjnsucom {
+
+    float: left;
+    width: 107px;
+    height: 49px;
+
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -249px -319px;
+}
+
+#collapsibleNavbar li {
+    text-align: center;
+    color: #fff;
+
+}
+
+.box1 {
+    background-color: #fff;
+}
+
+.box1-1 {
+
+    height: 39px;
+    background: rgba(255, 255, 255, 1);
+    font-size: 14px;
+    font-family: MicrosoftYaHei;
+    color: rgba(41, 176, 120, 1);
+    line-height: 2.7857;
+}
+
+.box1-a1,
+.box1-a2,
+.box1-a3 {
+    float: right;
+    width: 25px;
+    height: 24px;
+    margin: 7.5px 9px;
+    background-image: url('../images/icon-task8-index.png');
+    background-repeat: no-repeat;
+}
+
+.box1-a3 {
+    background-position: -249px -286px;
+}
+
+.box1-a2 {
+    background-position: -275px -286px;
+}
+
+.box1-a1 {
+    background-position: -302px -286px;
+}
+
+img {
+    width: 100%;
+    height: 31.25vw;
+}
+
+.box3 {
+    margin-top: 165px;
+
+}
+
+.box3-2 {
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    padding-top: 33px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: rgba(51, 51, 51, 1);
+}
+
+.box3-kk {
+    height: 264px;
+    padding-top: 60px;
+    padding-right: 41.5px;
+    padding-left: 41.5px;
+    border-left: 2px dashed #dedede;
+}
+
+.box3-1 {
+    padding-right: 41.5px;
+    padding-left: 41.5px;
+}
+
+.col {
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    color: rgba(153, 153, 153, 1);
+}
+
+.box3-cc {
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    color: #26a26f;
+}
+
+.box3-a4 {
+    float: left;
+    width: 13px;
+    height: 13px;
+    margin-top: 5.5px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: 0 -624px;
+}
+
+.rocket {
+    width: 43px;
+    height: 62px;
+    background-position: -316px -586px;
+    background-image: url('../images/icon-task8-index.png');
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.archive {
+    margin-top: 14px;
+    width: 60px;
+    height: 48px;
+    background-position: -364px -586px;
+    background-image: url('../images/icon-task8-index.png');
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shape253 {
+    margin-top: 7px;
+    width: 52px;
+    height: 55px;
+    background-position: -428px -586px;
+    background-image: url('../images/icon-task8-index.png');
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box5{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-between;
+
+}
+.box5-1{
+
+    border:1px solid;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.ball-1 {
+
+    width: 74px;
+    height: 74px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: 0 0;
+}
+
+.ball-2 {
+
+    width: 74px;
+    height: 74px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -75px 0;
+}
+
+.ball-3 {
+
+    width: 74px;
+    height: 74px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -150px 0;
+}
+
+.ball-4 {
+
+    width: 74px;
+    height: 74px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -225px 0;
+}
+
+.ball-5 {
+
+    width: 74px;
+    height: 74px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -300px 0;
+}
+
+.ball-6 {
+
+    width: 74px;
+    height: 74px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -375px 0;
+}
+
+.ball-7 {
+
+    width: 74px;
+    height: 74px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -450px 0;
+}
+
+.ball-8 {
+
+    width: 74px;
+    height: 74px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -525px 0;
+}
+
+.mid-1 {
+
+
+    width:155px;
+    font-size:14px;
+    border:1px solid;
+    margin-left:18px;
+    margin-right:22px;
+
+}
+
+
+
+.arrowhead{
+
+    border:1px solid;
+    width: 32px;
+    height: 30px;
+
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -147px -378px;
+}
+
+
+
+.box4 {
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 147px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: rgba(51, 51, 51, 1);
+}
+
+.box6 {
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 116px;
+    margin-bottom: 75px;
+    text-align: center;
+    color: rgba(51, 51, 51, 1);
+}
+
+.box9 {
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 128px;
+    margin-bottom: 67px;
+    text-align: center;
+    color: rgba(51, 51, 51, 1);
+}
+
+.box8 {
+    width: 100px;
+    margin: 23px auto 128px auto;
+    height: 17px;
+}
+
+.dot1 {
+    float: left;
+    width: 17px;
+    height: 17px;
+    margin-right: 5px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -316px -727px;
+}
+
+.dot2,
+.dot3 {
+    float: left;
+    width: 17px;
+    height: 17px;
+    margin-right: 5px;
+    margin-left: 5px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -333px -727px;
+}
+
+.dot4 {
+    float: left;
+    width: 17px;
+    height: 17px;
+    margin-left: 5px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -333px -727px;
+}
+
+.box12-aa {
+    color: #fff;
+}
+
+.box13 {
+    background-color: #26a26f;
+}
+
+.hh {
+    line-height: 2.9444;
+    width: 100%;
+    height: 53px;
+    background-color: #fff;
+}
+
+.avatar1 {
+    width: 108px;
+    height: 108px;
+    margin: 19px auto;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -101px -441px;
+}
+
+.avatar2 {
+    width: 108px;
+    height: 108px;
+    margin: 19px auto;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -216px -441px;
+}
+
+.avatar3 {
+    width: 108px;
+    height: 108px;
+    margin: 19px auto;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -327px -441px;
+}
+
+.avatar4 {
+    width: 108px;
+    height: 108px;
+    margin: 19px auto;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: -440px -440px;
+}
+
+.aaa {
+    width: 270px;
+    height: 369px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-bottom: 40px;
+    border: 1px solid #eeeded;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 1px 0 3px rgba(8, 1, 3, .15);
+}
+
+.aaa2 {
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 36px;
+    text-align: center;
+    color: rgba(51, 51, 51, 1);
+}
+
+.box10-1 {
+    height: 176px;
+    background-color: #fff;
+    background-image: url('../images/alibaba.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.box10-2 {
+    height: 176px;
+
+    background-color: #fff;
+    background-image: url('../images/jinshanyun.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.box10-3 {
+    min-height: 176px;
+    background-color: #fff;
+    background-image: url('../images/huanxing.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.box10-4 {
+    height: 176px;
+    background-color: #fff;
+    background-image: url('../images/ronglian.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.box10-5 {
+    height: 176px;
+    background-color: #fff;
+    background-image: url('../images/qi.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.box10-1:hover,
+.box10-2:hover,
+.box10-3:hover,
+.box10-4:hover,
+.box10-5:hover {
+    border: 1px solid #eeeded;
+    box-shadow: 1px 0 13px rgba(8, 1, 3, .1);
+}
+
+.footer {
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    line-height: 2.2142;
+    height: 31px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    border-top: 1px solid #32c086;
+    background: #26a26f;
+}
+
+.box12 {
+
+    background: #26a26f;
+}
+
+.box11 {
+    text-align: center;
+    background-color: #fff;
+
+}
+
+.box11-1 {
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 21px;
+    margin-bottom: 28px;
+}
+
+.box11-2 {
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: 700;
+    list-style-type: none;
+    height: 39px;
+    padding-left: 0px;
+    color: rgba(153, 153, 153, 1);
+}
+
+.box11-2-bor:hover {
+    text-decoration: none;
+    color: rgba(153, 153, 153, 1);
+    border-bottom: 1px solid #26A26F;
+}
+
+.box11-2-bor {
+    color: rgba(153, 153, 153, 1);
+    width: 118px;
+    text-align: left;
+}
+
+.box11-2 li {
+    float: left;
+    margin-left: 0px;
+    margin-right: 40px;
+    width: 79px;
+    text-align: left;
+
+}
+
+.box11-2-4 {
+    margin-right: 15px;
+    width: 66px;
+}
+
+.gg {
+    font-style: normal;
+    border-bottom: 1px solid #fff;
+}
+
+.box12-tt {
+    float: right;
+}
+
+.codebar {
+    margin-left: 2px;
+    width: 92px;
+    height: 92px;
+    background-image: url('../images/icon-task8-index.png');
+    background-position: 0 -531px;
+}
+
+.box12-a {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.box12-aa {
+    height: 170px;
+    flex-grow: 1;
+    text-align: left;
+}
+
+@media only screen  and (min-width: 992px) and (max-width: 1199px) {
+    .box5{
+        flex-direction:row;
+        justify-content:center;
+    }
+
+    .mid-1 {
+        width:300px;
+        font-size:14px;
+        border:1px solid;
+        margin-left:18px;
+        margin-right:32px;
+    }
+
+    .box11-2 {
+        height: 50px;
+    }
+}
+
+@media only screen  and (min-width: 768px) and (max-width: 991px) {
+
+    .box3-cc {
+        width: 80px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .aaa {
+        min-width: 300px;
+    }
+
+    .box11 {
+        height: 200px;
+    }
+    .box5{
+        flex-direction:row;
+        justify-content:center;
+    }
+
+    .mid-1 {
+        width:155px;
+        font-size:14px;
+        margin-left:18px;
+        margin-right:32px;
+    }
+}
+
+@media only screen  and (min-width: 320px) and (max-width: 767px) {
+
+    .box1-1 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .box1-a1, .box1-a2, .box1-a3 {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .box3 .col,.box7 .col,.row .col{
+
+        flex-basis: auto;
+        text-align: center;
+    }
+
+    nav .container {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+
+    .box3-cc {
+        width: 80px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .box5{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .mid-1 {
+        width:155px;
+        font-size:14px;
+        border:1px solid;
+        margin-left:10px;
+        margin-right:10px;
+    }
+
+
+
+    .box11 {
+        border: 1px solid green;
+        height: 300px;
+    }
+
+    .box12-a {
+
+        display: flex;
+
+        flex-direction: column;
+    }
+
+    .box12-aa {
+        text-align: center;
+
+    }
+
+    .box12-a3 {
+        float: none;
+        margin: 0 auto;
+    }
+
+}
+
+
+
